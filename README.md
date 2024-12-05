@@ -1,6 +1,6 @@
-# LG C1 HDR Optimization Guide for PC Gaming
+# LG C1 Optimization Guide for PC Gaming
 
-This guide provides detailed steps to optimize your LG C1 display for the best HDR gaming experience on PC.
+This guide provides detailed steps to optimize your LG C1 display for the best gaming experience on PC.
 
 ---
 
