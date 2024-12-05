@@ -1,1 +1,1 @@
-# LG-C1-Best-HDR-Settings
+
