@@ -19,6 +19,8 @@ This guide provides detailed steps to optimize your LG C1 display for the best g
 - [Enabling Dolby Vision](#enabling-dolby-vision)
 - [Disabling Auto Dimming](#disabling-auto-dimming)
 - [Game Specific Settings](#game-specific-settings)
+- [Nvidia Control Panel](#nvidia-control-panel)
+- [AMD Control Panel](#amd-control-panel)
 
 ---
 
@@ -153,6 +155,30 @@ At Step 3:
    - Disable `TPC Enable`.  
    - Disable `GSR Enable`.  
 5. Press the `EXIT` button on the remote, then restart your TV.  
+
+---
+
+## Nvidia Control Panel
+
+### Change resolution
+- Resolution: `3840 x 2160`  
+- Refresh rate: `120Hz`  
+- Desktop color depth: `Highest (32-bit)`
+- Output color format: `RGB`
+- Output color depth `12 bpc`
+- Output dynamic range `Full`
+
+---
+
+## AMD Control Panel (WIP)
+
+### Change resolution
+- Resolution: `3840 x 2160`  
+- Refresh rate: `120Hz`  
+- Desktop color depth: `Highest (32-bit)`
+- Output color format: `RGB`
+- Output color depth `12 bpc`
+- Output dynamic range `Full`
 
 ---
 
