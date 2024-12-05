@@ -18,6 +18,7 @@ This guide provides detailed steps to optimize your LG C1 display for the best H
 - [Home Dashboard](#home-dashboard)
 - [Enabling Dolby Vision](#enabling-dolby-vision)
 - [Disabling Auto Dimming](#disabling-auto-dimming)
+- [Game Specific Settings](#game-specific-settings)
 
 ---
 
@@ -152,6 +153,12 @@ At Step 3:
    - Disable `TPC Enable`.  
    - Disable `GSR Enable`.  
 5. Press the `EXIT` button on the remote, then restart your TV.  
+
+---
+
+## Game Specific Settings
+S.T.A.L.K.E.R. 2: Heart of Chornobyl
+
 
 ---
 
