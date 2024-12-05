@@ -156,9 +156,21 @@ At Step 3:
 
 ---
 
-## Game Specific Settings
-S.T.A.L.K.E.R. 2: Heart of Chornobyl
+## Game Specific Settings  
 
+### S.T.A.L.K.E.R. 2: Heart of Chornobyl  
+
+#### Image Correction  
+- Contrast: `75%`  
+- Brightness: `55%`  
+- Gamma: `44%`  
+
+#### HDR Mode  
+- HDR: `Enabled`  
+- HDR Black Point: `-4`  
+- HDR White Point: `1000`  
+- HDR Brightness: `30`  
+- HDR Interface Brightness: `0%`  
 
 ---
 
