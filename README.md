@@ -1,34 +1,33 @@
-# LG C1 Best Display Settings for HDR PC Gaming  
+# LG C1 HDR Optimization Guide for PC Gaming
 
-This guide provides the optimal display settings for the LG C1 OLED TV to enhance your gaming experience on PC.  
-
----
-
-## Table of Contents  
-1. [Picture Settings](#picture-settings)  
-   - [SDR Settings](#sdr-settings)  
-   - [HDR Settings](#hdr-settings)  
-2. [Sound Settings](#sound-settings)  
-3. [General Settings](#general-settings)  
-   - [Devices](#devices)  
-   - [Game Optimiser](#game-optimiser)  
-4. [Support Settings](#support-settings)  
-   - [OLED Care](#oled-care)  
-   - [Device Self Care](#device-self-care)  
-   - [OLED Panel Care](#oled-panel-care)  
-5. [Home Dashboard Configuration](#home-dashboard-configuration)  
-6. [Dolby Vision Configuration](#dolby-vision-configuration)  
-7. [Disabling Auto Dimming](#disabling-auto-dimming)  
+This guide provides detailed steps to optimize your LG C1 display for the best HDR gaming experience on PC.
 
 ---
 
-## Picture Settings  
+## Table of Contents
+- [Picture Settings](#picture-settings)
+  - [SDR Settings](#sdr-settings)
+  - [HDR Settings](#hdr-settings)
+- [Sound Settings](#sound-settings)
+- [General Settings](#general-settings)
+  - [HDMI Settings](#hdmi-settings)
+  - [Game Optimiser Settings](#game-optimiser-settings)
+- [Support Settings](#support-settings)
+  - [OLED Care](#oled-care)
+  - [Device Self Care](#device-self-care)
+- [Home Dashboard](#home-dashboard)
+- [Enabling Dolby Vision](#enabling-dolby-vision)
+- [Disabling Auto Dimming](#disabling-auto-dimming)
 
-### SDR Settings  
-- **Select Mode**: Game Optimiser  
+---
+
+## Picture Settings
+
+### SDR Settings
+- **Mode**: Game Optimiser  
 - **Aspect Ratio**: 16:9  
 
-#### Brightness Settings  
+#### Brightness Settings:
 - OLED Pixel Brightness: `90`  
 - Adjust Contrast: `85`  
 - Screen Brightness: `50`  
@@ -36,28 +35,28 @@ This guide provides the optimal display settings for the LG C1 OLED TV to enhanc
 - Black Level: `Auto`  
 - Motion Eye Care: `Off`  
 
-#### Color  
+#### Color:
 - Color Depth: `55`  
 - Tint: `0`  
 
-#### White Balance  
+#### White Balance:
 - Color Temperature: `Warm 50`  
 - Method: `2 Points`  
   - Point: `High`  
-  - Red: `0`  
-  - Green: `0`  
-  - Blue: `0`  
+    - Red: `0`  
+    - Green: `0`  
+    - Blue: `0`  
 
-#### Clarity  
+#### Clarity:
 - Adjust Sharpness: `0`  
 
 ---
 
-### HDR Settings  
-- **Select Mode**: Game Optimiser  
+### HDR Settings
+- **Mode**: Game Optimiser  
 - **Aspect Ratio**: 16:9  
 
-#### Brightness Settings  
+#### Brightness Settings:
 - OLED Pixel Brightness: `100`  
 - Adjust Contrast: `100`  
 - Screen Brightness: `50`  
@@ -65,102 +64,100 @@ This guide provides the optimal display settings for the LG C1 OLED TV to enhanc
 - Black Level: `Auto`  
 - Motion Eye Care: `Off`  
 
-#### Color  
+#### Color:
 - Color Depth: `50`  
 - Tint: `0`  
 
-#### White Balance  
+#### White Balance:
 - Color Temperature: `Warm 50`  
 - Method: `2 Points`  
   - Point: `High`  
-  - Red: `0`  
-  - Green: `0`  
-  - Blue: `0`  
+    - Red: `0`  
+    - Green: `0`  
+    - Blue: `0`  
 
-#### Clarity  
+#### Clarity:
 - Adjust Sharpness: `0`  
 
 ---
 
-## Sound Settings  
-- **Select Mode**: Game Optimiser  
+## Sound Settings
+- **Mode**: Game Optimiser  
 
 ---
 
-## General Settings  
+## General Settings
 
-### Devices  
-#### HDMI Settings  
+### HDMI Settings:
 - HDMI Deep Colour: `4K`  
 
-### Game Optimiser  
+### Game Optimiser Settings:
 - Game Genre: `Standard`  
 - Black Stabiliser: `10`  
 - White Stabiliser: `10`  
 - Reduced Blue Light: `Off`  
 - Prevent Input Delay (Input Lag): `Boost`  
-- Game Dashboard: Toggle `On`  
-- AI Game Sound: Toggle `On`  
-- VRR & G-Sync: Toggle `On`  
-- AMD FreeSync Premium: Toggle `On` (Do not enable if using a FreeSync monitor that supports G-Sync)  
+- Game Dashboard: Toggle `On` (Slider)  
+- AI Game Sound: Toggle `On` (Slider)  
+- VRR & G-Sync: Toggle `On` (Slider)  
+- AMD FreeSync Premium: Toggle `On` (Slider)  
+  - **Note**: Do not enable if using a FreeSync monitor that supports G-Sync.  
 - Fine Tune Dark Areas: `0`  
 
 ---
 
-## Support Settings  
+## Support Settings
 
-### OLED Care  
+### OLED Care:
 - Care Picture Settings: `Off`  
 
-### Device Self Care  
-#### Energy Saving  
+### Device Self Care:
+#### Energy Saving:
 - Energy Saving Steps: `Off`  
 - Auto Power Off: `Off`  
 
-### OLED Panel Care  
-- Screen Move: Toggle `On`  
+### OLED Panel Care:
+- Screen Move: Toggle `On` (Slider)  
 - Adjust Logo Brightness: `High`  
-- Care Recommendations: Toggle `Off`  
+- Care Recommendations: Toggle `Off` (Slider)  
 
 ---
 
-## Home Dashboard Configuration  
-1. Open the Home Dashboard (via the Input Icon on the remote).  
-2. Click the three dots (`...`) next to the `X` in the top-right corner.  
-3. Select `Edit`.  
-4. Edit Inputs:  
-   - Change the icon for the HDMI input where the PC is plugged in to `PC`.  
+## Home Dashboard
+1. Open the **Home Dashboard** (via the Input icon on the remote).  
+2. Click on the three dots (`...`) next to the `X` on the top right.  
+3. Select **Edit** → **Edit Inputs**.  
+4. Click on the cable icon where the PC is plugged in and change it to **PC**.  
 
 ---
 
-## Dolby Vision Configuration  
-1. Follow the Dolby Vision guide from [this repository](https://github.com/balu100/dolby-vision-for-windows).  
-2. At Step 3, make the following changes:  
-   - Open `CTA-861`.  
-   - Open `HDR Static Metadata`.  
-   - Set `Max Luminance`: `128`.  
-   - Set `Max Frame-Average`: `128`.  
-   - Leave `Min Luminance` empty.  
-   - Click `OK`.  
-3. Proceed with the guide.  
+## Enabling Dolby Vision
+Follow the [Dolby Vision Guide](https://github.com/balu100/dolby-vision-for-windows).  
+At Step 3:
+1. Open **CTA-861**.  
+2. Navigate to **HDR Static Metadata**:  
+   - Set Max Luminance: `128`  
+   - Set Max Frame-Average: `128`  
+   - Leave Min Luminance empty.  
+3. Click **OK** twice.  
+4. Continue following the guide.  
 
 ---
 
-## Disabling Auto Dimming  
-1. Purchase the LG Service Menu Remote.  
+## Disabling Auto Dimming
+1. Purchase an **LG Service Menu Remote**.  
 2. Press the `IN START` button on the remote.  
-3. When prompted, enter the password: `0413`.  
-4. Navigate to the `OLED` menu.  
-5. Disable the following options:  
-   - `TPC Enable`: `Off`.  
-   - `GSR Enable`: `Off`.  
-6. Exit the menu and restart your TV.  
+3. Enter the password: `0413`.  
+4. Navigate to the **OLED Menu**:  
+   - Disable `TPC Enable`.  
+   - Disable `GSR Enable`.  
+5. Press the `EXIT` button on the remote, then restart your TV.  
 
 ---
 
-## Contributing  
-Feel free to submit a pull request if you find any inaccuracies or have additional tips to enhance this guide.  
+## Disclaimer
+These settings are based on the LG C1's capabilities and intended for PC gaming. Adjustments may vary based on individual preferences and hardware configurations.
 
-## License  
-This project is licensed under the [MIT License](LICENSE).  
+---
 
+Feel free to submit issues or suggestions for this guide!
