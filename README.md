@@ -20,6 +20,7 @@ Optimize your LG C1 display for the ultimate PC gaming experience with this step
 - [Disabling Auto Dimming](#disabling-auto-dimming)
 - [Nvidia Control Panel](#nvidia-control-panel)
 - [AMD Control Panel](#amd-control-panel)
+- [Windows HDR Calibration](#windows-hdr-calibration)
 - [Game-Specific Settings](#game-specific-settings)
 
 ---
@@ -179,6 +180,13 @@ Follow the [Dolby Vision Guide](https://github.com/balu100/dolby-vision-for-wind
 - Output Color Format: `RGB`
 - Output Color Depth: `12 bpc`
 - Output Dynamic Range: `Full`
+
+---
+
+## Windows HDR Calibration (WIP)
+- Brightness: `1000`
+- Darkness: `0`
+- Color: `0`
 
 ---
 
