@@ -214,3 +214,4 @@ Settings are tailored for the LG C1 and PC gaming. Results may vary based on per
 ---
 
 Feel free to submit issues or suggestions to enhance this guide!
+sdr content brightness 25
